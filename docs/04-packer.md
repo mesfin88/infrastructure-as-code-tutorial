@@ -192,4 +192,4 @@ $ gcloud compute instances delete raddit-instance-4
 ```
 
 Next: [Terraform](05-terraform.md)
-prev: [Script](04-Scripts.md)
+prev: [Script](00-scripts.md)
