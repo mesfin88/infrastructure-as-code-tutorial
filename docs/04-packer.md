@@ -191,4 +191,5 @@ Destroy the current VM and move onto the next lab:
 $ gcloud compute instances delete raddit-instance-4
 ```
 
-Next: [Terraform](05-terraform.md)
+Next: [Terraform](05-terraform.md)        
+Next: (Script](04-Scripts.md)
